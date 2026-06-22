@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+html{
+  scroll-behavior:smooth;
+}
+
+body{
+  background:#041B3A;
+}
+
+::-webkit-scrollbar{
+  width:8px;
+}
+
+::-webkit-scrollbar-thumb{
+  background:#facc15;
+  border-radius:20px;
+}
+
+input{
+  transition:0.3s;
+}
+
+input:focus{
+  box-shadow:0 0 20px rgba(250,204,21,0.3);
+}
