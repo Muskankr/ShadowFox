@@ -1,36 +1,187 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 ShadowFox Internship Projects
 
-## Getting Started
+Welcome to my ShadowFox Internship Repository!
 
-First, run the development server:
+This repository contains all the projects completed during my Web Development Internship at ShadowFox. The internship provided hands-on experience in modern web development, UI/UX design, responsive interfaces, GitHub workflow, and real-world project implementation.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+---
+
+# 👩‍💻 About Me
+
+**Muskan Kumari**
+
+🎓 B.Tech CSE (AI & ML)
+
+🏫 University Institute of Engineering and Technology (UIET)
+
+📍 Maharshi Dayanand University (MDU), Rohtak
+
+💻 Aspiring Full Stack Developer
+
+🌱 Passionate about Web Development, AI, and Open Source
+
+---
+
+# 📂 Repository Structure
+
+```text
+ShadowFox
+│
+├── Personal Portfolio
+│
+├── IPL-Team-Website-CSKVerse
+│
+└── README.md
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# ✅ Task 1 - Personal Portfolio Website
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📌 Overview
 
-## Learn More
+A modern and responsive personal portfolio website designed to showcase my skills, projects, achievements, certifications, resume, and contact information.
 
-To learn more about Next.js, take a look at the following resources:
+The portfolio follows modern UI/UX principles with attractive animations, smooth interactions, responsive layouts, and professional design.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## ✨ Features
 
-## Deploy on Vercel
+* Responsive Design
+* Modern UI/UX
+* Hero Section
+* About Me Section
+* Skills Showcase
+* Project Showcase
+* Resume Download
+* Contact Section
+* Social Media Links
+* Hover Animations
+* Smooth Scrolling Navigation
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+* Git & GitHub
+
+---
+
+## 📚 Learning Outcomes
+
+* Responsive Web Design
+* CSS Flexbox & Grid
+* UI/UX Design Principles
+* JavaScript DOM Manipulation
+* Portfolio Development
+* GitHub Project Management
+
+---
+
+# ✅ Task 2 - CSKVerse IPL Team Website
+
+## 📌 Overview
+
+CSKVerse is a comprehensive fan website dedicated to the Chennai Super Kings (CSK) IPL franchise.
+
+The project was developed as part of the Intermediate Level Task and serves as a central hub where fans can explore squad details, match schedules, statistics, news updates, and fan engagement features.
+
+---
+
+## ✨ Features
+
+* Premium Responsive Design
+* Interactive Navigation Bar
+* Animated Hero Section
+* Team Overview
+* Squad Showcase
+* Match Schedule
+* Team Statistics
+* Fan Zone
+* Latest News Section
+* Mobile-Friendly Layout
+* Smooth Animations
+* Modern IPL-Themed UI
+
+---
+
+## 🛠️ Technologies Used
+
+### Frontend
+
+* Next.js
+* React.js
+* TypeScript
+* Tailwind CSS
+* Framer Motion
+
+### Development Tools
+
+* VS Code
+* Git
+* GitHub
+
+---
+
+## 📚 Learning Outcomes
+
+* Next.js Project Structure
+* React Components
+* TypeScript Fundamentals
+* Tailwind CSS Styling
+* Responsive Design
+* Animation Implementation
+* Component-Based Development
+* Project Organization
+
+---
+
+# 🔥 Internship Progress
+
+| Task                        | Level        | Status                         |
+| --------------------------- | ------------ | ------------------------------ |
+| Personal Portfolio Website  | Beginner     | ✅ Completed                    |
+| IPL Team Website (CSKVerse) | Intermediate | ✅ Completed                    |
+| Full Stack Client Project   | Hard         | ⏳ Awaiting Client Requirements |
+
+---
+
+# 🧠 Skills Improved During Internship
+
+* Frontend Development
+* Responsive Web Design
+* React.js
+* Next.js
+* TypeScript
+* Tailwind CSS
+* UI/UX Design
+* Git & GitHub
+* Project Structuring
+* Component-Based Architecture
+
+---
+
+# 🎯 Future Enhancements
+
+* Backend Integration
+* Authentication System
+* Database Connectivity
+* API Development
+* Full Stack Deployment
+* Real-Time Features
+
+---
+
+
+
+# 🏆 Internship
+
+This repository was created as part of the **ShadowFox Web Development Internship Program**, showcasing practical implementation of modern web development concepts through real-world projects.
+
+---
+
+⭐ Thank you for visiting my repository. Feel free to explore the projects and provide feedback!
