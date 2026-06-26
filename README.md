@@ -10,7 +10,7 @@ This repository contains all the projects completed during my Web Development In
 
 **Muskan Kumari**
 
-🎓 B.Tech CSE (AI & ML)
+🎓 B.Tech CSE (AI & ML) Student 
 
 🏫 University Institute of Engineering and Technology (UIET)
 
@@ -184,4 +184,4 @@ This repository was created as part of the **ShadowFox Web Development Internshi
 
 ---
 
-⭐ Thank you for visiting my repository. Feel free to explore the projects and provide feedback!
+⭐ Thank you for visiting my repository. Feel free to explore the projects and provide feedback! 
