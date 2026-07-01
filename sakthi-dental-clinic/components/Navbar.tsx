@@ -1,7 +1,8 @@
 "use client";
 
 import { useState } from "react";
-import { FaBars, FaTimes, FaTooth } from "react-icons/fa";
+import Image from "next/image";
+import { FaBars, FaTimes } from "react-icons/fa";
 
 export default function Navbar() {
   const [open, setOpen] = useState(false);
@@ -19,25 +20,23 @@ export default function Navbar() {
   return (
     <nav className="fixed top-0 w-full z-50 bg-slate-950/80 backdrop-blur-xl border-b border-cyan-500/20">
 
-      <div className="max-w-7xl mx-auto flex justify-between items-center px-6 py-5">
+      <div className="max-w-7xl mx-auto flex justify-between items-center px-6 py-4">
 
-        <div className="flex items-center gap-3">
+        {/* Logo */}
 
-          <FaTooth className="text-cyan-400 text-3xl" />
+        <div className="flex items-center gap-4">
 
-          <div>
-
-            <h1 className="font-bold text-2xl">
-              Sakthi Dental
-            </h1>
-
-            <p className="text-xs text-gray-400">
-              Healthy Smile • Happy Life
-            </p>
-
-          </div>
+          <Image
+            src="/images/logo.png"
+            alt="Sakthi Dental Clinic"
+            width={170}
+            height={55}
+            priority
+          />
 
         </div>
+
+        {/* Desktop Menu */}
 
         <ul className="hidden lg:flex gap-8">
 
@@ -47,7 +46,7 @@ export default function Navbar() {
 
               <a
                 href={`#${item.toLowerCase()}`}
-                className="hover:text-cyan-400 duration-300"
+                className="hover:text-cyan-400 transition"
               >
                 {item}
               </a>
@@ -57,6 +56,8 @@ export default function Navbar() {
           ))}
 
         </ul>
+
+        {/* Mobile */}
 
         <button
           onClick={() => setOpen(!open)}
@@ -77,6 +78,7 @@ export default function Navbar() {
               key={item}
               href={`#${item.toLowerCase()}`}
               className="block"
+              onClick={() => setOpen(false)}
             >
               {item}
             </a>
